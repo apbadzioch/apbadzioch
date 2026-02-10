@@ -17,6 +17,7 @@
 - Pandas, NumPy, Matplotlib, Seaborn
 - Langchain, Ollama
 - Node.js, Express
+- Django, FastAPI
 
 **Infrastructure**
 - Linux (Ubuntu/Debian), VPS hosting
